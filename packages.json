@@ -1,0 +1,14 @@
+[
+  {
+    "package": "pkident",
+    "url": "https://github.com/DaikiKumakura/pkident"
+  },
+  {
+    "package": "rsemflow",
+    "url": "https://github.com/DaikiKumakura/rsemflow"
+  },
+  {
+    "package": "retiaudit",
+    "url": "https://github.com/DaikiKumakura/retiaudit"
+  }
+]
