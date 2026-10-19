@@ -1,4 +1,4 @@
-# DaikiKumakura.r-universe.dev
+# daikikumakura.r-universe.dev
 
 Registry for the [R-universe](https://r-universe.dev/) of Daiki Kumakura (`https://daikikumakura.r-universe.dev`).
 `packages.json` lists the R packages built there:
