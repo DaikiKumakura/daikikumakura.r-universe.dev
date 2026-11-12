@@ -10,5 +10,13 @@
   {
     "package": "retiaudit",
     "url": "https://github.com/DaikiKumakura/retiaudit"
+  },
+  {
+    "package": "bulkdeconv",
+    "url": "https://github.com/DaikiKumakura/bulkdeconv"
+  },
+  {
+    "package": "rsemverse",
+    "url": "https://github.com/DaikiKumakura/rsemverse"
   }
 ]
