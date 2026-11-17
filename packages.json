@@ -18,5 +18,9 @@
   {
     "package": "rsemverse",
     "url": "https://github.com/DaikiKumakura/rsemverse"
+  },
+  {
+    "package": "bayespk",
+    "url": "https://github.com/DaikiKumakura/bayespk"
   }
 ]
