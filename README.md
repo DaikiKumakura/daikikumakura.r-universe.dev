@@ -8,6 +8,7 @@ Registry for [Daiki Kumakura's R-universe](https://daikikumakura.r-universe.dev)
 - [retiaudit](https://github.com/DaikiKumakura/retiaudit): inspect Python selection hints for reticulate without starting Python
 - [bulkdeconv](https://github.com/DaikiKumakura/bulkdeconv): estimate cell-type composition or abundance from tumor bulk RNA-seq
 - [rsemverse](https://github.com/DaikiKumakura/rsemverse): read RSEM gene-level results as a gene-by-sample table
+- [geneticPoS](https://github.com/DaikiKumakura/geneticPoS): relate cis-pQTL MR and colocalization results to historical drug development benchmarks
 
 The universe shows package versions, available builds and installation instructions.
 

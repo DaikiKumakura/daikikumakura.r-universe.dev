@@ -27,5 +27,9 @@
     "package": "superslim",
     "url": "https://github.com/DaikiKumakura/superslim",
     "subdir": "r"
+  },
+  {
+    "package": "geneticPoS",
+    "url": "https://github.com/DaikiKumakura/geneticPoS"
   }
 ]
