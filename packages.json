@@ -25,6 +25,7 @@
   },
   {
     "package": "superslim",
-    "url": "https://github.com/DaikiKumakura/superslim-r"
+    "url": "https://github.com/DaikiKumakura/superslim",
+    "subdir": "r"
   }
 ]
